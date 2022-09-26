@@ -1,0 +1,21 @@
+body {
+    background-image: url("bg.jpg");
+}
+
+hr {
+    width:75%
+}
+
+#camera {
+    width: 400px;
+    height: 350px;
+    border: 1px solid gray;
+}
+
+#textbox {
+    width: 300px;
+}
+
+#start-btn {
+    width: 10%
+}
